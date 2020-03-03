@@ -20,3 +20,15 @@ The plan is to build a new peer-to-peer protocol based on the current applicatio
 [1]	T. L. Willke, P. Tientrakool and N. F. Maxemchuk, “A survey of inter-vehicle communication protocols and their applications”,  in IEEE Communications Surveys & Tutorials, vol. 11, no. 2, pp. 3-20, Second Quarter 2009. DOI: 10.1109/SURV.2009.090202
 
 [2]	Steven E. Shladover, “Connected and automated vehicle systems: Introduction and overview”, Journal of Intelligent Transportation Systems, 22:3, 190-200, DOI: 10.1080/15472450.2017.1336053
+
+## Midterm Update
+## Terminology correction:
+In the project proposal we used the term “autonomous vehicles”. After doing more research in this area, we realize that “autonomous system” describes systems that can make decisions independently. However, since the system our work is based on is not just about decision making, it’s more accurate to use “automated vehicles” instead.
+
+## Specified goal
+Our plan, as specified in the proposal, is to build a new peer-to-peer protocol based on the current application layer in the networks. The feedback from our professor is to consider V2X (vehicle-to-everything) connection. Taking the feedback into consideration, we further specify our goal as to build a new P2P protocol based on the automated vehicles, pedestrians, and road infrastructure network connected using DSRC and WIFI. We are still on our way to deciding whether we should take cellular communication (4G/5G) into the scope of our project.
+
+## Results of literature study
+During the past few weeks, our main task was to do literature study on this topic to see where we are currently at. For automated vehicle systems, we are at the fourth wave of its development, which began with the Defense Advanced Research Projects Agency (DARPA) Challenges in the 2000s. Right now, we divide the automation systems into 5 categories, ordered by their level of automation. This five-level classification is brought up by Society of Automotive Engineers (SAE) International and provides examples of how the system would operate for each level. 
+We are especially interested in connecting the automated vehicles using some P2P protocol, so it is necessary to study the connected vehicle system. The concept of dedicated short-range communications (DSRC) is introduced in this area. DSRC is the foundation of such connected systems, and it will be the main thing we put our new layer on.
+
