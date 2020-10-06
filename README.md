@@ -1,4 +1,9 @@
 # Real Time Traffic Information Sharing Between Autonomous Vehicles
+
+### Project Report
+PDF version avaliable at: 
+https://docs.google.com/document/d/1Xxjhjvgq4T1r1i8S8nzLOrnDx50rUf2ViSmqc9SmrZo/edit?usp=sharing
+
 ## Overview
 The current detection system used by autonomous vehicles, which relies on their own camera and radar, does not make good advantage of the vehicle-to-vehicle network and thus is inefficient. With inter-vehicle network, vehicles can share traffic information more efficiently to improve their performance and prevent potential accidents. Sharing real-time data between vehicles on the road will  also reduce delays and speed up traffic safely.
 
@@ -21,7 +26,6 @@ The plan is to build a new peer-to-peer protocol based on the current applicatio
 
 [2]	Steven E. Shladover, “Connected and automated vehicle systems: Introduction and overview”, Journal of Intelligent Transportation Systems, 22:3, 190-200, DOI: 10.1080/15472450.2017.1336053
 
-## Midterm Update
 ## Terminology correction:
 In the project proposal we used the term “autonomous vehicles”. After doing more research in this area, we realize that “autonomous system” describes systems that can make decisions independently. However, since the system our work is based on is not just about decision making, it’s more accurate to use “automated vehicles” instead.
 
