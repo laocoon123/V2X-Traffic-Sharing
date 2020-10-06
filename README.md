@@ -1,8 +1,7 @@
 # Real Time Traffic Information Sharing Between Autonomous Vehicles
 
 ### Project Report
-PDF version avaliable at: 
-https://docs.google.com/document/d/1Xxjhjvgq4T1r1i8S8nzLOrnDx50rUf2ViSmqc9SmrZo/edit?usp=sharing
+PDF version avaliable at: https://bit.ly/3iFR1jM
 
 ## Overview
 The current detection system used by autonomous vehicles, which relies on their own camera and radar, does not make good advantage of the vehicle-to-vehicle network and thus is inefficient. With inter-vehicle network, vehicles can share traffic information more efficiently to improve their performance and prevent potential accidents. Sharing real-time data between vehicles on the road will  also reduce delays and speed up traffic safely.
